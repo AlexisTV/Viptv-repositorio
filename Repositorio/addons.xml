@@ -17,19 +17,19 @@
 </addon>
 
 <extension point="xbmc.addon.repository" name="viptv">
-            <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/addons.xml.md5</checksum>
+            <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/plugin.program.viptv/addon.xml</info>
+            <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
 
-    <addon id="repository.viptv" name="viptv" version="0.1.2" provider-name="AlexisTV">
+    <addon id="repository.viptv" name="viptv" version="0.1.3" provider-name="AlexisTV">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="viptv">
-            <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/addons.xml.md5</checksum>
+            <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/plugin.program.viptv/addon.xml</info>
+            <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
