@@ -217,12 +217,4 @@
         <source>https://github.com/zag2me/repository.urepo</source>
     </extension>
 </addon>
-
-
-<extension point="xbmc.addon.repository" name="viptv">
-            <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addon.xml</info>
-            <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/</datadir>
-            <hashes>false</hashes>
-        </extension>
 </addons>
