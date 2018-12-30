@@ -57,7 +57,7 @@
             <hashes>false</hashes>
         </extension>
 
-    <addon id="repository.viptv" name="viptv" version="0.1.4" provider-name="AlexisTV">
+    <addon id="repository.viptv" name="viptv" version="0.1.5" provider-name="AlexisTV">
         <extension point="xbmc.addon.repository" name="viptv">
             <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/plugin.program.viptv/addon.xml</info>
             <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
