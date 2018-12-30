@@ -23,7 +23,7 @@
             <hashes>false</hashes>
         </extension>
 
-    <addon id="repository.viptv" name="viptv" version="0.1.1" provider-name="AlexisTV">
+    <addon id="repository.viptv" name="viptv" version="0.1.2" provider-name="AlexisTV">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
