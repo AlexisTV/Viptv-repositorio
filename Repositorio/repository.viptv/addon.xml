@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.viptv" name="viptv" version="0.1.5" provider-name="AlexisTV">
+    <addon id="repository.viptv" name="viptv" version="0.1.6" provider-name="AlexisTV">
         <extension point="xbmc.addon.repository" name="viptv">
             <info compressed="false">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/plugin.program.viptv/addon.xml</info>
             <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/_repo/</datadir>
+            <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/repositorio/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
@@ -11,4 +11,4 @@
             <description>descarga de viptv build.</description>
             <platform>all</platform>
     </extension>
-</addon>
+</addon>        
