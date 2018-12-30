@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.viptv" name="VIPTV[COLOR crimson]ASTRO[/COLOR]" version="5.8" provider-name="AlexisTV">
+<addon id="plugin.program.viptv" name="VIPTV[COLOR crimson]ASTRO[/COLOR]" version="5.9" provider-name="AlexisTV">
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
