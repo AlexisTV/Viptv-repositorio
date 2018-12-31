@@ -245,7 +245,7 @@
     </extension>
 </addon>
 
-<addon id="repository.Viptvrepor" name="[COLOR lime]Viptv Repositorio[/COLOR] Repo" version="1.0.1" provider-name="Alexistv">
+<addon id="repository.Viptv" name="[COLOR cyan]Viptv[/COLOR][COLOR crimson]Astro[/COLOR] Repositorio" version="1.0.1" provider-name="Alexistv">
     <extension point="xbmc.addon.repository" name="Viptv repositorio">
         <info>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
