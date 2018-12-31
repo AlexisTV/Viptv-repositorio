@@ -49,6 +49,12 @@
   </extension>
 </addon>
 
+<extension point="xbmc.addon.repository" name="Viptv repositorio">
+        <info>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
+    </extension>
+
 <addon id="plugin.video.youtube" name="YouTube" version="6.2.3" provider-name="bromix">
     <requires>
         <import addon="xbmc.python" version="2.20.0"/>
