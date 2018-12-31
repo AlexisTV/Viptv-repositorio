@@ -234,6 +234,20 @@
     </extension>
 </addon>
 
+<addon id="repository.Mirepor" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.0.1" provider-name="Yo Mismo">
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio para Mi</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="repository.urepo" name="uRepo Repository" version="1.0.0" provider-name="zag">
     <extension point="xbmc.addon.repository" name="uRepo Repository">
         <info compressed="false">http://www.urepo.org/zips/addons.xml</info>
@@ -250,20 +264,6 @@
         <forum></forum>
         <website>http://www.urepo.org</website>
         <source>https://github.com/zag2me/repository.urepo</source>
-    </extension>
-</addon>
-
-<addon id="repository.viptv" name="[COLOR lime]viptv[/COLOR] Repo" version="1.0.1" provider-name="viptv">
-    <extension point="xbmc.addon.repository" name="viptv">
-        <info>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repositorio/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Viptv Astro Build Instal</summary>
-        <description></description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
     </extension>
 </addon>
 </addons>
